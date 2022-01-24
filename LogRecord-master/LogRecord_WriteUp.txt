@@ -1,0 +1,6 @@
+Name-Vivekanand
+
+1. To create a package.json file execute npm init
+2. npm install readfile-sync to create the readfile sync module
+3. Write the functions in the LogRecord.js file
+4. Get input from the user and display results according to the inputs
